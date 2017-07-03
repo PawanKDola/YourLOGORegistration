@@ -10,6 +10,6 @@ public class SampleTest {
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://automationpractice.com/index.php");
 		driver.findElement(By.cssSelector("a[class='login']")).click();
-		driver.findElement(By.cssSelector("input[id='email_create']")).sendKeys("Sample");
+		driver.findElement(By.cssSelector("input[id='email_create']")).sendKeys("Sample1");
 	}
 }

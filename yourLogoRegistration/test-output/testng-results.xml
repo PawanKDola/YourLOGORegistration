@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="YourLogoTestCases" duration-ms="21916" started-at="2017-07-03T05:02:17Z" finished-at="2017-07-03T05:02:39Z">
+    <groups>
+    </groups>
+    <test name="YourLogoCreateTestAccount" duration-ms="21916" started-at="2017-07-03T05:02:17Z" finished-at="2017-07-03T05:02:39Z">
+      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2286778]" name="setWebDriver" is-config="true" duration-ms="13561" started-at="2017-07-02T22:02:17Z" finished-at="2017-07-02T22:02:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setWebDriver -->
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2286778]" name="instantiatePageObjects" is-config="true" duration-ms="1706" started-at="2017-07-02T22:02:31Z" finished-at="2017-07-02T22:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestData_1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiatePageObjects -->
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2286778]" name="createTestAccount" duration-ms="5120" started-at="2017-07-02T22:02:32Z" finished-at="2017-07-02T22:02:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emailIdFn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTestAccount -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2286778]" name="quitDriver" is-config="true" duration-ms="1486" started-at="2017-07-02T22:02:37Z" finished-at="2017-07-02T22:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
+    </test> <!-- YourLogoCreateTestAccount -->
+  </suite> <!-- YourLogoTestCases -->
+</testng-results>

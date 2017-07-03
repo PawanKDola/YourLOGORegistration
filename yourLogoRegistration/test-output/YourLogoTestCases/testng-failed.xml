@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [YourLogoTestCases]">
+  <parameter name="idCol" value="TestData_1"/>
+  <parameter name="emailKey" value="emailIdFn"/>
+  <test name="YourLogoCreateTestAccount(failed)">
+    <parameter name="idCol" value="TestData_1"/>
+    <parameter name="emailKey" value="emailIdFn"/>
+    <classes>
+      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+        <methods>
+          <include name="instantiatePageObjects"/>
+          <include name="setWebDriver"/>
+          <include name="createTestAccount" invocation-numbers="0"/>
+          <include name="quitDriver"/>
+        </methods>
+      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
+    </classes>
+  </test> <!-- YourLogoCreateTestAccount(failed) -->
+</suite> <!-- Failed suite [YourLogoTestCases] -->

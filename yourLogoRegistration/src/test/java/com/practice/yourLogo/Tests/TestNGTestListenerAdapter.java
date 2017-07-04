@@ -29,7 +29,7 @@ public class TestNGTestListenerAdapter extends TestListenerAdapter{
 		
 		@Override
 		public void onTestSuccess(ITestResult rt){
-				logger.info("Successfull finished the test " + rt.getTestContext().getCurrentXmlTest().getName());
+				logger.info("Successfully finished the test " + rt.getTestContext().getCurrentXmlTest().getName());
 				logger.info("Test Case " + rt.getTestContext().getCurrentXmlTest().getName() + " - Passed");
 		}
 }

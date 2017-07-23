@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<suite name="YourLogoTestCases">
+<suite name="YourLogoTestCases" parallel="tests">
 	<listeners>
 		<listener class-name="com.practice.yourLogo.Tests.TestNGTestListenerAdapter"/>
 	</listeners>
-	<test name="YourLogoCreateTestAccount">
+	
+	<test name="YourLogoCreateTestAccount_1">
 	<parameter name="idCol" value="TestData_1"></parameter>
 	<parameter name="emailKey" value="emailIdFn"></parameter>
 		<classes>
@@ -14,4 +15,79 @@
 			</class>
 		</classes>
 	</test>
+
+	
+	<test name="YourLogoCreateTestAccount_2">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+	
+	<test name="YourLogoCreateTestAccount_3">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+		<test name="YourLogoCreateTestAccount_4">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+		<test name="YourLogoCreateTestAccount_5">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+		<test name="YourLogoCreateTestAccount_6">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+		<test name="YourLogoCreateTestAccount_7">
+	<parameter name="idCol" value="TestData_1"></parameter>
+	<parameter name="emailKey" value="emailIdFn"></parameter>
+		<classes>
+			<class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+				<methods>
+					<include name="createTestAccount"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
 </suite>

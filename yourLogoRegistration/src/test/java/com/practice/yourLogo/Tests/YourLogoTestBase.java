@@ -9,17 +9,24 @@ import java.util.concurrent.TimeUnit;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.ITestContext;
 import org.testng.annotations.AfterClass;
+import org.testng.annotations.AfterSuite;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeSuite;
 import org.testng.annotations.BeforeTest;
 
 import com.gargoylesoftware.htmlunit.javascript.host.Console;
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
 
 public class YourLogoTestBase {
 	
-	protected WebDriver driver;
-	
+	protected  WebDriver driver;
+
 	@BeforeTest
 	protected void setWebDriver(){
+		
 			InputStream fis = Thread.currentThread().getClass().getResourceAsStream("/Global.Properties");
 			Properties prop = new Properties();
 			try {
@@ -68,8 +75,10 @@ public class YourLogoTestBase {
 		
 	}
 	
-	@AfterClass
+	@AfterTest
 	public void quitDriver(){
-		driver.quit();
+			driver.quit();
 	}
+	
+
 }

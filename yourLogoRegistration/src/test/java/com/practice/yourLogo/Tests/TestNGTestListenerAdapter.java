@@ -11,15 +11,12 @@ public class TestNGTestListenerAdapter extends TestListenerAdapter{
 		private Logger logger = Logger.getLogger("TestNGTestListenerAdapter");
 		
 		public TestNGTestListenerAdapter() {
-				
 				PropertyConfigurator.configure("src/test/resources/Log4j.Properties");
 		}
 		
 		@Override
 		public void onTestStart(ITestResult rt){
-	
 				logger.info("Started the test " + rt.getTestContext().getCurrentXmlTest().getName());
-				
 		}
 		
 		@Override

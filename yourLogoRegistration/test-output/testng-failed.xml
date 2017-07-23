@@ -3,7 +3,10 @@
 <suite name="Failed suite [YourLogoTestCases]">
   <parameter name="idCol" value="TestData_1"/>
   <parameter name="emailKey" value="emailIdFn"/>
-  <test name="YourLogoCreateTestAccount(failed)">
+  <listeners>
+    <listener class-name="com.practice.yourLogo.Tests.TestNGTestListenerAdapter"/>
+  </listeners>
+  <test name="YourLogoCreateTestAccount_1(failed)">
     <parameter name="idCol" value="TestData_1"/>
     <parameter name="emailKey" value="emailIdFn"/>
     <classes>
@@ -11,10 +14,10 @@
         <methods>
           <include name="instantiatePageObjects"/>
           <include name="setWebDriver"/>
-          <include name="createTestAccount" invocation-numbers="0"/>
-          <include name="quitDriver"/>
+          <include name="initExtentRptMthdDtls"/>
+          <include name="createTestAccount"/>
         </methods>
       </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
     </classes>
-  </test> <!-- YourLogoCreateTestAccount(failed) -->
+  </test> <!-- YourLogoCreateTestAccount_1(failed) -->
 </suite> <!-- Failed suite [YourLogoTestCases] -->

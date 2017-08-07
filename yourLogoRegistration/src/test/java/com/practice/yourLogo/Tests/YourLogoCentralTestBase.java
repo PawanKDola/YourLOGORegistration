@@ -14,11 +14,12 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.internal.annotations.IBeforeMethod;
 
+import reportFactory.ExtentReportCore;
+import reportFactory.ExtentTestReport;
+
 import com.practice.yourLogo.Pages.YourLogoCommOps;
 import com.practice.yourLogo.Pages.YourLogoRegistrationPage;
 import com.practice.yourLogo.Pages.YourLogoSignInPage;
-import com.practice.yourLogo.reportFactory.ExtentReportCore;
-import com.practice.yourLogo.reportFactory.ExtentTestReport;
 import com.relevantcodes.extentreports.DisplayOrder;
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;

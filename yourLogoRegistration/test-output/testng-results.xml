@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="7" passed="7">
   <reporter-output>
   </reporter-output>
-  <suite name="YourLogoTestCases" duration-ms="78883" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:57Z">
+  <suite name="YourLogoTestCases" duration-ms="91257" started-at="2017-08-07T20:22:47Z" finished-at="2017-08-07T20:24:19Z">
     <groups>
     </groups>
-    <test name="YourLogoCreateTestAccount_5" duration-ms="42987" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:21Z">
+    <test name="YourLogoCreateTestAccount_4" duration-ms="58619" started-at="2017-08-07T20:22:47Z" finished-at="2017-08-07T20:23:46Z">
       <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="setWebDriver" is-config="true" duration-ms="36108" started-at="2017-08-06T20:29:38Z" finished-at="2017-08-06T20:30:14Z">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="setWebDriver" is-config="true" duration-ms="39663" started-at="2017-08-07T13:22:47Z" finished-at="2017-08-07T13:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="instantiatePageObjects" is-config="true" duration-ms="1520" started-at="2017-08-06T20:30:14Z" finished-at="2017-08-06T20:30:16Z">
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="instantiatePageObjects" is-config="true" duration-ms="2505" started-at="2017-08-07T13:23:27Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="initExtentRptMthdDtls" is-config="true" duration-ms="317" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:16Z">
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="initExtentRptMthdDtls" is-config="true" duration-ms="270" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -33,7 +33,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="createTestAccount" duration-ms="2478" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:18Z">
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="createTestAccount" duration-ms="13783" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:44Z">
           <params>
             <param index="0">
               <value>
@@ -44,63 +44,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="799" started-at="2017-08-06T20:30:18Z" finished-at="2017-08-06T20:30:19Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=createTestAccount status=SUCCESS method=YourLogoRegistrationTest.createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="quitDriver" is-config="true" duration-ms="1727" started-at="2017-08-06T20:30:19Z" finished-at="2017-08-06T20:30:21Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quitDriver -->
-      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
-    </test> <!-- YourLogoCreateTestAccount_5 -->
-    <test name="YourLogoCreateTestAccount_4" duration-ms="56204" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:34Z">
-      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="setWebDriver" is-config="true" duration-ms="38463" started-at="2017-08-06T20:29:38Z" finished-at="2017-08-06T20:30:16Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="instantiatePageObjects" is-config="true" duration-ms="284" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[TestData_1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="createTestAccount" duration-ms="16238" started-at="2017-08-06T20:30:17Z" finished-at="2017-08-06T20:30:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[emailIdFn]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="initExtentRptMthdDtls" is-config="true" duration-ms="0" started-at="2017-08-06T20:30:17Z" finished-at="2017-08-06T20:30:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@33f88ab]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="85" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:33Z">
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="434" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:44Z">
           <params>
             <param index="0">
               <value>
@@ -111,19 +55,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="quitDriver" is-config="true" duration-ms="1126" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:34Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@22a67b4]" name="quitDriver" is-config="true" duration-ms="1947" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
       </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
     </test> <!-- YourLogoCreateTestAccount_4 -->
-    <test name="YourLogoCreateTestAccount_3" duration-ms="56694" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:35Z">
+    <test name="YourLogoCreateTestAccount_5" duration-ms="58619" started-at="2017-08-07T20:22:48Z" finished-at="2017-08-07T20:23:46Z">
       <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="setWebDriver" is-config="true" duration-ms="38044" started-at="2017-08-06T20:29:38Z" finished-at="2017-08-06T20:30:16Z">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="setWebDriver" is-config="true" duration-ms="39639" started-at="2017-08-07T13:22:48Z" finished-at="2017-08-07T13:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="instantiatePageObjects" is-config="true" duration-ms="181" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:16Z">
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="instantiatePageObjects" is-config="true" duration-ms="2505" started-at="2017-08-07T13:23:27Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -134,7 +78,63 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="initExtentRptMthdDtls" is-config="true" duration-ms="2" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:16Z">
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="initExtentRptMthdDtls" is-config="true" duration-ms="270" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@33f88ab]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentRptMthdDtls -->
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="createTestAccount" duration-ms="13808" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emailIdFn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTestAccount -->
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="644" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createTestAccount status=SUCCESS method=YourLogoRegistrationTest.createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExtentRptMthdDtls -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@72b6cbcc]" name="quitDriver" is-config="true" duration-ms="1727" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
+    </test> <!-- YourLogoCreateTestAccount_5 -->
+    <test name="YourLogoCreateTestAccount_1" duration-ms="58635" started-at="2017-08-07T20:22:47Z" finished-at="2017-08-07T20:23:46Z">
+      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="setWebDriver" is-config="true" duration-ms="39656" started-at="2017-08-07T13:22:47Z" finished-at="2017-08-07T13:23:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setWebDriver -->
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="instantiatePageObjects" is-config="true" duration-ms="2506" started-at="2017-08-07T13:23:27Z" finished-at="2017-08-07T13:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestData_1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiatePageObjects -->
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="initExtentRptMthdDtls" is-config="true" duration-ms="270" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -145,7 +145,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="createTestAccount" duration-ms="16851" started-at="2017-08-06T20:30:16Z" finished-at="2017-08-06T20:30:33Z">
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="createTestAccount" duration-ms="13551" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:43Z">
           <params>
             <param index="0">
               <value>
@@ -156,63 +156,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="94" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[[TestResult name=createTestAccount status=SUCCESS method=YourLogoRegistrationTest.createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e] output={null}]]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="quitDriver" is-config="true" duration-ms="1490" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:35Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- quitDriver -->
-      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
-    </test> <!-- YourLogoCreateTestAccount_3 -->
-    <test name="YourLogoCreateTestAccount_1" duration-ms="56772" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:35Z">
-      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="setWebDriver" is-config="true" duration-ms="38860" started-at="2017-08-06T20:29:38Z" finished-at="2017-08-06T20:30:17Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="instantiatePageObjects" is-config="true" duration-ms="105" started-at="2017-08-06T20:30:17Z" finished-at="2017-08-06T20:30:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[TestData_1]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="initExtentRptMthdDtls" is-config="true" duration-ms="0" started-at="2017-08-06T20:30:17Z" finished-at="2017-08-06T20:30:17Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[org.testng.TestRunner@2d8f65a4]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="createTestAccount" duration-ms="16459" started-at="2017-08-06T20:30:17Z" finished-at="2017-08-06T20:30:33Z">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[emailIdFn]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="74" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:33Z">
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="523" started-at="2017-08-07T13:23:43Z" finished-at="2017-08-07T13:23:44Z">
           <params>
             <param index="0">
               <value>
@@ -223,19 +167,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="quitDriver" is-config="true" duration-ms="1254" started-at="2017-08-06T20:30:33Z" finished-at="2017-08-06T20:30:35Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@335eadca]" name="quitDriver" is-config="true" duration-ms="2090" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
       </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
     </test> <!-- YourLogoCreateTestAccount_1 -->
-    <test name="YourLogoCreateTestAccount_2" duration-ms="58746" started-at="2017-08-07T03:29:38Z" finished-at="2017-08-07T03:30:37Z">
+    <test name="YourLogoCreateTestAccount_2" duration-ms="58926" started-at="2017-08-07T20:22:47Z" finished-at="2017-08-07T20:23:46Z">
       <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="setWebDriver" is-config="true" duration-ms="44077" started-at="2017-08-06T20:29:38Z" finished-at="2017-08-06T20:30:22Z">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="setWebDriver" is-config="true" duration-ms="39660" started-at="2017-08-07T13:22:47Z" finished-at="2017-08-07T13:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="instantiatePageObjects" is-config="true" duration-ms="209" started-at="2017-08-06T20:30:22Z" finished-at="2017-08-06T20:30:22Z">
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="instantiatePageObjects" is-config="true" duration-ms="2505" started-at="2017-08-07T13:23:27Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -246,18 +190,18 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="initExtentRptMthdDtls" is-config="true" duration-ms="1" started-at="2017-08-06T20:30:22Z" finished-at="2017-08-06T20:30:22Z">
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="initExtentRptMthdDtls" is-config="true" duration-ms="271" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[org.testng.TestRunner@1b68ddbd]]>
+                <![CDATA[org.testng.TestRunner@2d8f65a4]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="createTestAccount" duration-ms="12594" started-at="2017-08-06T20:30:22Z" finished-at="2017-08-06T20:30:35Z">
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="createTestAccount" duration-ms="13644" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:44Z">
           <params>
             <param index="0">
               <value>
@@ -268,7 +212,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="92" started-at="2017-08-06T20:30:35Z" finished-at="2017-08-06T20:30:35Z">
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="690" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:44Z">
           <params>
             <param index="0">
               <value>
@@ -279,19 +223,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="quitDriver" is-config="true" duration-ms="1741" started-at="2017-08-06T20:30:35Z" finished-at="2017-08-06T20:30:37Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@35d176f7]" name="quitDriver" is-config="true" duration-ms="2136" started-at="2017-08-07T13:23:44Z" finished-at="2017-08-07T13:23:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
       </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
     </test> <!-- YourLogoCreateTestAccount_2 -->
-    <test name="YourLogoCreateTestAccount_6" duration-ms="24308" started-at="2017-08-07T03:30:21Z" finished-at="2017-08-07T03:30:45Z">
+    <test name="YourLogoCreateTestAccount_3" duration-ms="58926" started-at="2017-08-07T20:22:47Z" finished-at="2017-08-07T20:23:46Z">
       <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="setWebDriver" is-config="true" duration-ms="10272" started-at="2017-08-06T20:30:21Z" finished-at="2017-08-06T20:30:31Z">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="setWebDriver" is-config="true" duration-ms="39658" started-at="2017-08-07T13:22:47Z" finished-at="2017-08-07T13:23:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="instantiatePageObjects" is-config="true" duration-ms="126" started-at="2017-08-06T20:30:31Z" finished-at="2017-08-06T20:30:31Z">
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="instantiatePageObjects" is-config="true" duration-ms="2506" started-at="2017-08-07T13:23:27Z" finished-at="2017-08-07T13:23:30Z">
           <params>
             <param index="0">
               <value>
@@ -302,7 +246,63 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="initExtentRptMthdDtls" is-config="true" duration-ms="1" started-at="2017-08-06T20:30:31Z" finished-at="2017-08-06T20:30:31Z">
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="initExtentRptMthdDtls" is-config="true" duration-ms="269" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1b68ddbd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initExtentRptMthdDtls -->
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="createTestAccount" duration-ms="14908" started-at="2017-08-07T13:23:30Z" finished-at="2017-08-07T13:23:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[emailIdFn]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTestAccount -->
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="94" started-at="2017-08-07T13:23:45Z" finished-at="2017-08-07T13:23:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createTestAccount status=SUCCESS method=YourLogoRegistrationTest.createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterExtentRptMthdDtls -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@3d99d22e]" name="quitDriver" is-config="true" duration-ms="1468" started-at="2017-08-07T13:23:45Z" finished-at="2017-08-07T13:23:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
+    </test> <!-- YourLogoCreateTestAccount_3 -->
+    <test name="YourLogoCreateTestAccount_6" duration-ms="32424" started-at="2017-08-07T20:23:46Z" finished-at="2017-08-07T20:24:19Z">
+      <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="setWebDriver" is-config="true" duration-ms="18475" started-at="2017-08-07T13:23:46Z" finished-at="2017-08-07T13:24:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setWebDriver -->
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="instantiatePageObjects" is-config="true" duration-ms="66" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestData_1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiatePageObjects -->
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="initExtentRptMthdDtls" is-config="true" duration-ms="1" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:05Z">
           <params>
             <param index="0">
               <value>
@@ -313,7 +313,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="createTestAccount" duration-ms="12615" started-at="2017-08-06T20:30:31Z" finished-at="2017-08-06T20:30:44Z">
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="createTestAccount" duration-ms="12704" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:17Z">
           <params>
             <param index="0">
               <value>
@@ -324,7 +324,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="171" started-at="2017-08-06T20:30:44Z" finished-at="2017-08-06T20:30:44Z">
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="39" started-at="2017-08-07T13:24:17Z" finished-at="2017-08-07T13:24:17Z">
           <params>
             <param index="0">
               <value>
@@ -335,19 +335,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="quitDriver" is-config="true" duration-ms="1117" started-at="2017-08-06T20:30:44Z" finished-at="2017-08-06T20:30:45Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@9660f4e]" name="quitDriver" is-config="true" duration-ms="1138" started-at="2017-08-07T13:24:17Z" finished-at="2017-08-07T13:24:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->
       </class> <!-- com.practice.yourLogo.Tests.YourLogoRegistrationTest -->
     </test> <!-- YourLogoCreateTestAccount_6 -->
-    <test name="YourLogoCreateTestAccount_7" duration-ms="22647" started-at="2017-08-07T03:30:34Z" finished-at="2017-08-07T03:30:57Z">
+    <test name="YourLogoCreateTestAccount_7" duration-ms="32513" started-at="2017-08-07T20:23:46Z" finished-at="2017-08-07T20:24:19Z">
       <class name="com.practice.yourLogo.Tests.YourLogoRegistrationTest">
-        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="setWebDriver" is-config="true" duration-ms="9896" started-at="2017-08-06T20:30:34Z" finished-at="2017-08-06T20:30:44Z">
+        <test-method status="PASS" signature="setWebDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="setWebDriver" is-config="true" duration-ms="18348" started-at="2017-08-07T13:23:46Z" finished-at="2017-08-07T13:24:05Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setWebDriver -->
-        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="instantiatePageObjects" is-config="true" duration-ms="91" started-at="2017-08-06T20:30:44Z" finished-at="2017-08-06T20:30:44Z">
+        <test-method status="PASS" signature="instantiatePageObjects(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="instantiatePageObjects" is-config="true" duration-ms="188" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:05Z">
           <params>
             <param index="0">
               <value>
@@ -358,7 +358,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- instantiatePageObjects -->
-        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="initExtentRptMthdDtls" is-config="true" duration-ms="1" started-at="2017-08-06T20:30:44Z" finished-at="2017-08-06T20:30:44Z">
+        <test-method status="PASS" signature="initExtentRptMthdDtls(org.testng.ITestContext)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="initExtentRptMthdDtls" is-config="true" duration-ms="1" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:05Z">
           <params>
             <param index="0">
               <value>
@@ -369,7 +369,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initExtentRptMthdDtls -->
-        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="createTestAccount" duration-ms="11630" started-at="2017-08-06T20:30:44Z" finished-at="2017-08-06T20:30:56Z">
+        <test-method status="PASS" signature="createTestAccount(java.lang.String)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="createTestAccount" duration-ms="12864" started-at="2017-08-07T13:24:05Z" finished-at="2017-08-07T13:24:18Z">
           <params>
             <param index="0">
               <value>
@@ -380,7 +380,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- createTestAccount -->
-        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="41" started-at="2017-08-06T20:30:56Z" finished-at="2017-08-06T20:30:56Z">
+        <test-method status="PASS" signature="afterExtentRptMthdDtls(org.testng.ITestResult)[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="afterExtentRptMthdDtls" is-config="true" duration-ms="79" started-at="2017-08-07T13:24:18Z" finished-at="2017-08-07T13:24:18Z">
           <params>
             <param index="0">
               <value>
@@ -391,7 +391,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterExtentRptMthdDtls -->
-        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="quitDriver" is-config="true" duration-ms="984" started-at="2017-08-06T20:30:56Z" finished-at="2017-08-06T20:30:57Z">
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:com.practice.yourLogo.Tests.YourLogoRegistrationTest@2a17b7b6]" name="quitDriver" is-config="true" duration-ms="1029" started-at="2017-08-07T13:24:18Z" finished-at="2017-08-07T13:24:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quitDriver -->

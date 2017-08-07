@@ -1,4 +1,4 @@
-package com.practice.yourLogo.reportFactory;
+package reportFactory;
 
 import java.io.File;
 
@@ -7,7 +7,8 @@ import com.relevantcodes.extentreports.ExtentReports;
 public class ExtentReportCore {
 		
 		static ExtentReports extent;
-		static String reportPath = System.getProperty("user.dir") + "/src/main/java/com/practice/yourLogo/reportFactory/";
+//		static String reportPath = System.getProperty("user.dir") + "/src/main/java/com/practice/yourLogo/reportFactory/";
+		static String reportPath = System.getProperty("user.dir") + "/src/test/reports/reportFactory/";
 		
 		public  synchronized static ExtentReports getReporter(String suiteName){
 				if (extent == null){

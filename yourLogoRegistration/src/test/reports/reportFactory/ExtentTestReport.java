@@ -1,4 +1,4 @@
-package com.practice.yourLogo.reportFactory;
+package reportFactory;
 
 import java.util.HashMap;
 

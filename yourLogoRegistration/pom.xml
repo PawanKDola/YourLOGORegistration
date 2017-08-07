@@ -36,6 +36,10 @@
         	</configuration>
 		</plugin>
 	</plugins>
+	
+	<resources>
+			
+	</resources>
 	</build>
 	
   <dependencies>

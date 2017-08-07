@@ -1,8 +1,7 @@
-package reportFactory;
+package com.practice.yourLogo.reportFactory;
 
 import java.util.HashMap;
 
-import org.testng.ITestContext;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;

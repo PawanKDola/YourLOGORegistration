@@ -538,3 +538,111 @@
 2017-07-23 13:09:07,211 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
 2017-07-23 13:09:07,271 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
 2017-07-23 13:09:07,271 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed
+2017-08-05 01:16:00,370 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-05 01:16:00,375 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-05 01:16:00,373 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-05 01:16:02,550 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-05 01:16:03,066 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-05 01:16:12,980 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_5
+2017-08-05 01:16:12,980 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_5 - Passed
+2017-08-05 01:16:13,316 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_1
+2017-08-05 01:16:13,316 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_1 - Passed
+2017-08-05 01:16:13,325 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_3
+2017-08-05 01:16:13,325 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_3 - Passed
+2017-08-05 01:16:14,820 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_2
+2017-08-05 01:16:14,820 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_2 - Passed
+2017-08-05 01:16:15,137 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_4
+2017-08-05 01:16:15,137 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_4 - Passed
+2017-08-05 01:16:34,924 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-05 01:16:35,156 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-05 01:16:47,704 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_7
+2017-08-05 01:16:47,705 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
+2017-08-05 01:16:47,753 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
+2017-08-05 01:16:47,754 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed
+2017-08-06 10:56:26,347 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-06 10:56:26,363 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-06 10:56:26,363 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-06 10:56:26,347 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-06 10:56:26,347 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-06 10:56:28,456 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_2
+2017-08-06 10:56:28,457 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_2 - Passed
+2017-08-06 10:56:39,942 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_1
+2017-08-06 10:56:39,943 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_1 - Passed
+2017-08-06 10:56:41,392 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_5
+2017-08-06 10:56:41,394 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_5 - Passed
+2017-08-06 10:56:41,696 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_3
+2017-08-06 10:56:41,696 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_3 - Passed
+2017-08-06 10:56:41,939 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_4
+2017-08-06 10:56:41,940 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_4 - Passed
+2017-08-06 10:56:42,558 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-06 10:56:52,275 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-06 10:56:58,684 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
+2017-08-06 10:56:58,684 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed
+2017-08-06 10:57:04,059 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_7
+2017-08-06 10:57:04,060 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
+2017-08-06 19:39:07,871 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-06 19:39:07,879 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-06 19:39:09,480 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-06 19:39:13,184 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-06 19:39:14,386 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-06 19:39:16,536 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-06 19:39:18,911 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-06 20:27:35,123 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-06 20:27:37,234 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-06 20:28:11,413 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-06 20:28:11,414 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-06 20:28:11,414 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-06 20:28:11,413 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-06 20:28:11,414 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-06 20:28:24,776 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_4
+2017-08-06 20:28:24,784 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_4 - Passed
+2017-08-06 20:28:24,987 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_1
+2017-08-06 20:28:24,987 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_1 - Passed
+2017-08-06 20:28:25,458 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_7
+2017-08-06 20:28:25,458 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
+2017-08-06 20:28:25,583 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
+2017-08-06 20:28:25,599 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed
+2017-08-06 20:28:26,008 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_3
+2017-08-06 20:28:26,009 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_3 - Passed
+2017-08-06 20:30:16,343 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-06 20:30:16,622 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-06 20:30:17,129 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-06 20:30:17,344 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-06 20:30:18,812 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_5
+2017-08-06 20:30:18,813 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_5 - Passed
+2017-08-06 20:30:22,665 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-06 20:30:31,801 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-06 20:30:33,366 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_4
+2017-08-06 20:30:33,366 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_4 - Passed
+2017-08-06 20:30:33,468 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_3
+2017-08-06 20:30:33,468 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_3 - Passed
+2017-08-06 20:30:33,801 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_1
+2017-08-06 20:30:33,801 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_1 - Passed
+2017-08-06 20:30:35,255 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_2
+2017-08-06 20:30:35,255 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_2 - Passed
+2017-08-06 20:30:44,411 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
+2017-08-06 20:30:44,411 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed
+2017-08-06 20:30:44,587 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-06 20:30:56,215 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_7
+2017-08-06 20:30:56,216 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
+2017-08-06 20:32:30,904 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_4
+2017-08-06 20:32:30,904 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_3
+2017-08-06 20:32:30,904 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_1
+2017-08-06 20:32:32,886 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_5
+2017-08-06 20:32:34,544 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_2
+2017-08-06 20:32:44,370 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_4
+2017-08-06 20:32:44,370 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_4 - Passed
+2017-08-06 20:32:45,485 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_3
+2017-08-06 20:32:45,485 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_3 - Passed
+2017-08-06 20:32:45,637 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_1
+2017-08-06 20:32:45,638 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_1 - Passed
+2017-08-06 20:32:45,822 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_5
+2017-08-06 20:32:45,822 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_5 - Passed
+2017-08-06 20:32:46,900 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_2
+2017-08-06 20:32:46,901 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_2 - Passed
+2017-08-06 20:33:01,939 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_7
+2017-08-06 20:33:02,013 [TestNG] INFO TestNGTestListenerAdapter - Started the test YourLogoCreateTestAccount_6
+2017-08-06 20:33:14,519 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_7
+2017-08-06 20:33:14,519 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_7 - Passed
+2017-08-06 20:33:14,859 [TestNG] INFO TestNGTestListenerAdapter - Successfully finished the test YourLogoCreateTestAccount_6
+2017-08-06 20:33:14,860 [TestNG] INFO TestNGTestListenerAdapter - Test Case YourLogoCreateTestAccount_6 - Passed

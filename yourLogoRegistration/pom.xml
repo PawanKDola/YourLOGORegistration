@@ -50,7 +50,7 @@
         	<version>2.20</version>
         	<configuration>
           	<suiteXmlFiles>
-            		<suiteXmlFile>src/test/java/com/practice/yourLogo/TestSuites/CreateAccountTest.xml</suiteXmlFile>
+            		<suiteXmlFile>${suiteXmlFile}</suiteXmlFile>
           	</suiteXmlFiles>
         	</configuration>
 		</plugin>

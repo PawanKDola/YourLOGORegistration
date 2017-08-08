@@ -15,11 +15,7 @@
   </properties>
 	<build>
 	
-		<resources>
-			<resource>
-					<directory>src/test/reports</directory>
-			</resource>
-	</resources>
+	<sourceDirectory>src/test/reports</sourceDirectory>
 	
 	<plugins>
 		<plugin>
